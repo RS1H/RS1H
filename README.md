@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Rayan Alharthy
 
-<!--
-**RS1H/RS1H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity Student | Network & System Developer**  
+Focused on building secure, efficient, and well-structured systems.  
+Interested in **network defense**, **system security**, and **Linux administration**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Java** – Core programming & system projects  
+- **Wireshark** – Deep packet inspection & network analysis  
+- **Cisco Packet Tracer** – Network topology design & simulation  
+- **Linux / Unix** – System administration & shell environment  
+- **Networking** – Advanced routing, switching, and protocol configuration  
+- **Network Security** – Securing infrastructure, firewalls, and traffic analysis  
+
+---
+
+### 📫 Contact
+- **Email:** [rayans.alharthy@gmail.com](mailto:rayans.alharthy@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/rayan-alharthy-8b08242a7](https://www.linkedin.com/in/rayan-alharthy-8b08242a7)  
+- **GitHub:** [github.com/RS1H](https://github.com/RS1H)
+
+---
+
+🛡️ *Always learning, always securing.*
