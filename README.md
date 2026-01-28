@@ -16,8 +16,7 @@ Interested in **network defense**, **system security**, and **Linux administrati
 
 ---
 
-### 📫 Contact
-- **Email:** [rayans.alharthy@gmail.com](mailto:rayans.alharthy@gmail.com)  
+### 📫 Contact 
 - **LinkedIn:** [linkedin.com/in/rayan-alharthy-8b08242a7](https://www.linkedin.com/in/rayan-alharthy-8b08242a7)  
 - **GitHub:** [github.com/RS1H](https://github.com/RS1H)
 
