@@ -50,8 +50,8 @@ Practical implementations and notes related to network OS concepts.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,linux,git,github,arch" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50"/>
+  <img src="https://img.icons8.com/color/96/cisco.png" width="50"/>
+  <img src="https://img.icons8.com/color/96/wireshark.png" width="50"/>
 </p>
 
 ---
