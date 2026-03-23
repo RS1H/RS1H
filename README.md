@@ -53,9 +53,9 @@ Practical implementations and notes related to network OS concepts.
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=arch" />
+  <img src="https://img.icons8.com/color/96/cisco.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/wireshark.png" width="60"/>
 </p>
 
 ---
