@@ -49,13 +49,12 @@ Practical implementations and notes related to network OS concepts.
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,linux,git,github,arch" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch" />
-  <img src="https://img.icons8.com/color/96/cisco.png" width="60"/>
-  <img src="https://img.icons8.com/color/96/wireshark.png" width="60"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50"/>
 </p>
 
 ---
