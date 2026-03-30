@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Hi,%10I'm%20Rayan%20Alharthy&fontSize=60&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Hi,%20I'm%20Rayan%20Alharthy&fontSize=60&fontColor=ffffff" width="100%"/>
 
   <h3>Cybersecurity Student | Network Security | System Analysis</h3>
   
