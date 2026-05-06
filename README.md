@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Hi,%20I'm%20Rayan%20Alharthy&fontSize=60&fontColor=ffffff" width="100%"/>
-
   <h3>Cybersecurity Student | Network Security | System Analysis</h3>
   
   <p align="center">
@@ -13,7 +12,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 I am a **Cybersecurity student** focused on building strong foundations in **networking, system security, and traffic analysis**.  
 I enjoy understanding how systems work internally and identifying potential vulnerabilities.
 
@@ -47,9 +45,8 @@ Practical implementations and notes related to network OS concepts.
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,linux,git,github,arch" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,git,github,vscode,arch,windows" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="50"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50"/>
 </p>
@@ -62,13 +59,16 @@ Practical implementations and notes related to network OS concepts.
 - **Network Security:** Traffic analysis, basic defense techniques  
 - **Wireshark:** Packet inspection & troubleshooting  
 - **Cisco Packet Tracer:** Network simulation  
-- **Linux:** System usage & basic administration  
+- **Operating Systems:** Linux & Windows — system usage & basic administration  
 - **Programming:** Java (OOP & Data Structures)  
+- **Scripting:** Python — basics for automation & security tasks  
+- **Databases:** SQL & MySQL — queries, data management, basic security concepts  
+- **Version Control:** Git & GitHub  
+- **Documentation:** Markdown & technical writing  
 
 ---
 
 ## 📫 Contact
-
 - **LinkedIn:** https://www.linkedin.com/in/rayan-alharthy-8b08242a7/
 
 ---
