@@ -47,9 +47,9 @@ Practical implementations and notes related to network OS concepts.
 ## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,vscode,arch" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50"/>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="50"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Practical implementations and notes related to network OS concepts.
 - **Networking:** Routing, Switching, TCP/IP Fundamentals  
 - **Network Security:** Traffic analysis, basic defense techniques  
 - **Wireshark:** Packet inspection & troubleshooting  
-- **Cisco Packet Tracer:** Network simulation  
+- **Cisco Packet Tracer:** Network simulation & topology design  
 - **Operating Systems:** Linux — system usage & basic administration  
 - **Programming:** Java (OOP & Data Structures)  
 - **Scripting:** Python — basics for automation & security tasks  
