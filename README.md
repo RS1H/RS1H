@@ -46,11 +46,7 @@ Practical implementations and notes related to network OS concepts.
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,vscode,arch,cisco" />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="48" width="48" />
-  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,vscode,arch" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="48" />
 </p>
 
