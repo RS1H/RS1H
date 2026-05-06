@@ -8,75 +8,55 @@
     </a>
   </p>
 </div>
-
 ---
-
 ## 👨‍💻 About Me
 I am a **Cybersecurity student** focused on building strong foundations in **networking, system security, and traffic analysis**.  
 I enjoy understanding how systems work internally and identifying potential vulnerabilities.
-
 - 🎓 Studying **B.Sc. in Cybersecurity**
 - 🧠 Focused on **Network Defense & Traffic Analysis**
 - 🛠️ Hands-on with real tools, not just theory
 - 📡 Interested in **secure system design & infrastructure protection**
-
 ---
-
 ## 🚀 Featured Projects
-
 ### 📚 [Library System (Data Structures)](https://github.com/RS1H/Library-System-Data-Structures)
 A Java-based system for managing books and members using core data structures.
 - **Built With:** Java, OOP, Data Structures
 - **Features:** Add/remove books, issue/return system, member tracking
-
 ---
-
 ### 🔐 [Caesar Cipher Brute Force](https://github.com/RS1H/Caesar-Cipher-BruteForce-Java)
 A simple cryptography project demonstrating brute-force decryption.
 - **Built With:** Java
 - **Focus:** Understanding encryption basics & attack methods
-
 ---
-
 ### 🌐 [Network Operating Systems](https://github.com/RS1H/Network-Operating-Systems)
 Practical implementations and notes related to network OS concepts.
 - **Focus:** System-level networking & configurations
-
 ---
-
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,vscode,arch" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,git,github,vscode,arch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50"/>
 </p>
-
 ---
-
 ## 🔧 Core Skills
-
 - **Networking:** Routing, Switching, TCP/IP Fundamentals  
 - **Network Security:** Traffic analysis, basic defense techniques  
 - **Wireshark:** Packet inspection & troubleshooting  
-- **Cisco Packet Tracer:** Network simulation & topology design  
+- **Cisco Packet Tracer:** Network simulation  
 - **Operating Systems:** Linux — system usage & basic administration  
 - **Programming:** Java (OOP & Data Structures)  
 - **Scripting:** Python — basics for automation & security tasks  
-- **Databases:** Oracle APEX & SQL — queries, data management, basic security concepts  
+- **Databases:** SQL & MySQL — queries, data management, basic security concepts  
 - **Version Control:** Git & GitHub  
 - **Documentation:** Markdown & technical writing  
-
 ---
-
 ## 📫 Contact
 - **LinkedIn:** https://www.linkedin.com/in/rayan-alharthy-8b08242a7/
-
 ---
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RS1H&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RS1H&theme=tokyonight&hide_border=true" />
 </div>
-
 ---
-
 🛡️ *Always learning, always securing.*
