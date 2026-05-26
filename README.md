@@ -183,17 +183,6 @@ Practical implementations and notes on network OS concepts.
 
 <br/>
 
-<!-- ====================== TROPHIES ====================== -->
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RS1H&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4"/>
-
-</div>
-
-<br/>
 
 <!-- ====================== CONTRIBUTION GRAPH ====================== -->
 
