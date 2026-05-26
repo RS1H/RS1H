@@ -77,30 +77,30 @@ I'm a Cybersecurity student building my foundations in networking, system securi
 
 ## 🎯 Core Skills
 
-<table align="left" width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
-<h3>🌐 &nbsp;Networking &amp; Security</h3>
+<h3>🌐 Networking &amp; Security</h3>
 
 <img src="https://img.shields.io/badge/Routing%20%26%20Switching-203a43?style=flat-square&labelColor=0f2027"/>
 <img src="https://img.shields.io/badge/TCP%2FIP-203a43?style=flat-square&labelColor=0f2027"/>
 <img src="https://img.shields.io/badge/Traffic%20Analysis-203a43?style=flat-square&labelColor=0f2027"/>
 <img src="https://img.shields.io/badge/Network%20Defense-203a43?style=flat-square&labelColor=0f2027"/>
 
-<h3>📡 &nbsp;Analysis &amp; Simulation</h3>
+<h3>📡 Analysis &amp; Simulation</h3>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
-<h3>💻 &nbsp;Programming</h3>
+<h3>💻 Programming</h3>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Structures-203a43?style=flat-square&labelColor=0f2027"/>
 
-<h3>🗄️ &nbsp;Data &amp; Tooling</h3>
+<h3>🗄️ Data &amp; Tooling</h3>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white"/>
