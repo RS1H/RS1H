@@ -59,7 +59,7 @@ I'm a Cybersecurity student building my foundations in networking, system securi
 
 ### Databases & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,linux,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,linux,arch" />
 </p>
 
 ### Tools & Workflow
