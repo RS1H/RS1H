@@ -18,7 +18,7 @@
   <a href="https://github.com/RS1H">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Bahrain%20%2F%20KSA-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Saudi%20Arabia-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 </div>
@@ -59,8 +59,7 @@ I'm a Cybersecurity student building my foundations in networking, system securi
 
 ### Databases & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,linux" />
-  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,linux,oracle" />
 </p>
 
 ### Tools & Workflow
